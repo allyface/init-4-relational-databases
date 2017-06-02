@@ -192,10 +192,10 @@ Create a database for a fictional bike shop. Use the [Table Schema for Bike Shop
 
 Complete the final Khan Academy project. Design and create schemas for the "Bossggle" app from the Init 1 goals.
 
-- [ ] Solution SQL for the Khan Academy project: [App impersonator][ka-proj-app-impersonator] is added to a file in your repo named `app_impersonator.sql`
-- [ ] SQL in `app_impersonator.sql` has consistent indentation.
-- [ ] All the SQL keywords in `app_impersonator.sql` are written in ALL CAPS.
-- [ ] Folder `bossggle/` exists in your repo.
+- [x] Solution SQL for the Khan Academy project: [App impersonator][ka-proj-app-impersonator] is added to a file in your repo named `app_impersonator.sql`
+- [x] SQL in `app_impersonator.sql` has consistent indentation.
+- [x] All the SQL keywords in `app_impersonator.sql` are written in ALL CAPS.
+- [x] Folder `bossggle/` exists in your repo.
 - [ ] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from [Init 1: Bossggle Word Game][bossggle-word-game] is included in the file `bossggle/schema.sql`.
 
 Bossggle schema supports the following features (i.e. you _could_ write SQL to show this data):
